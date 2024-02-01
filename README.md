@@ -29,15 +29,33 @@
 
  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
 
+ <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP logo" />
+
+ <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel logo" />
+
+ <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo" />
+
  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
 
  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
 
  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
 
+ <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+
+ <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
+
+ <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo" />
+
+ <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
+
+ <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" />
+
  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
  
  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+
+ <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
  
  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 
@@ -53,6 +71,8 @@
  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator" />
 
  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="Adobe XD" />
+
+ <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"  />
 
 </div>
 
