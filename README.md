@@ -1,7 +1,7 @@
-# Hello World, I'm <a href="https://tommyphan.dev/" target="_blank">Ermiyas Tilahun</a>👋 I'm ...
-# Senior Cyber Security Officer 👨‍💻
-# Senior Full Stack Engineer 👨‍💻
-# Geraphic Designer 👨‍💻
+# Hello World, I'm <a href="https://tommyphan.dev/" target="_blank">Ermiyas Tilahun</a>👋
+## Senior Cyber Security Officer 👨‍💻
+## Senior Full Stack Engineer 👨‍💻
+## Geraphic Designer 👨‍💻
 
 <!--
 **Erma-T/Erma-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
