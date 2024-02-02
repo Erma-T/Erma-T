@@ -4,13 +4,28 @@
 ### - Senior Full Stack Engineer :desktop_computer:
 ### - Graphic Designer :pencil2:
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://airmacreatives.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermiyas-tilahun/)
+---
 
+<h3> Find me on </h3> 
+  <a href="https://www.linkedin.com/in/ermiyas-tilahun/">
+    <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:ermy143@gmail.com">
+    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://www.instagram.com/airma_creatives/">
+    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+  <a href="https://github.com/Erma-T">
+    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <a href="https://airmacreatives.com/">
+    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+  </a>
+ 
+</br>
 
-
-
+---
 
 ## 🎓 I am skilled in ...
 
@@ -77,6 +92,8 @@
 
 </div>
 
+---
+
 ### Little about me 🧑
 
 - 🌱 I've been a Tech Enthusiast since childhood.
@@ -85,6 +102,18 @@
 - 💡 Contributing to Open Source Projects is always been a goal for me.
 - ⚡ Fun fact: I love art, especially drawing, photos, and videography.
 -  💬 Ask me about anything ... [use any of my contacts] 
+
+---
+
+<p align="center">
+  <a href="https://github.com/Erma-T">
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Erma-T&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/Erma-T">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erma-T&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erma-T&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Erma-T" /></p>
 
 
 
