@@ -1,8 +1,8 @@
 # Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm <a href="https://airmacreatives.com/" target="_blank">Ermiyas Tilahun</a> and I am Experineced with ...
 
-### - Senior Cyber Security Officer :lock:
-### - Senior Full Stack Engineer :desktop_computer:
-### - Graphic Designer :pencil2:
+### - Cyber Security :lock:
+### - Software Development :desktop_computer:
+### - Graphic Designing :pencil2:
 
 ---
 
