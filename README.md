@@ -1,4 +1,5 @@
-# Hello World, I'm <a href="https://tommyphan.dev/" target="_blank">Ermiyas Tilahun</a>👋
+# Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm <a href="https://airmacreatives.com/" target="_blank">Ermiyas Tilahun</a> and I am Experineced with ...
+
 ### - Senior Cyber Security Officer :lock:
 ### - Senior Full Stack Engineer :desktop_computer:
 ### - Graphic Designer :pencil2:
@@ -75,6 +76,16 @@
  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"  />
 
 </div>
+
+### Little about me 🧑
+
+- 🌱 I've been a Tech Enthusiast since childhood.
+- 🔭 I’m currently working as a senior Cyber Security Officer [On-site], Senior Fullstack Engineer [Remote] and Graphic Designer [Freelance]
+- 👯 I’m so passionate about meeting new people and learning new things.
+- 💡 Contributing to Open Source Projects is always been a goal for me.
+- ⚡ Fun fact: I love art, especially drawing, photos, and videography.
+-  💬 Ask me about anything ... [use any of my contacts] 
+
 
 
 <!--
