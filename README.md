@@ -51,8 +51,6 @@
 
  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
 
- <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
-
  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
 
  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="NextJS logo" />
@@ -72,10 +70,10 @@
  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" />
 
  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
- 
- <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
 
  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+
+ <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="Mongo DB logo"  />
 
  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo" />
  
