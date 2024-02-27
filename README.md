@@ -100,7 +100,11 @@
 
 ### Little about me 🧑
 
-- 🌱 I've been a Tech Enthusiast since childhood.
+Passionate, highly organized, and goal-oriented web developer with a total of 10 years experience as a front-end, back-end,</br> 
+and later a full-stack developer. I have a strong background in both front-end and back-end technologies. I am also highly </br>
+knowledgeable in database management and other development practices like CI/CD. With my many soft skills like time management, </br>
+communication, attention to detail, problem-solving, leadership, and teamwork, I can work independently or as part of a team.</br>
+
 - 🔭 I’m currently working as a senior Cyber Security Officer [On-site], Senior Fullstack Engineer [Remote] and Graphic Designer [Freelance]
 - 👯 I’m so passionate about meeting new people and learning new things.
 - 💡 Contributing to Open Source Projects is always been a goal for me.
