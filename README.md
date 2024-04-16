@@ -19,7 +19,7 @@
   <a href="https://github.com/Erma-T">
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://airmacreatives.com/">
+  <a href="https://ermiyas.com/">
     <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
  
