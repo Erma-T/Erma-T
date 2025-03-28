@@ -1,7 +1,6 @@
 # Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm <a href="https://ermiyas.com/" target="_blank">Ermiyas Tilahun</a> and I am Experineced with ...
 
-### - Cyber Security :lock:
-### - Software Development :desktop_computer:
+### - Front-end Development :desktop_computer:
 ### - Graphic Designing :pencil2:
 
 ---
@@ -28,14 +27,6 @@
 ---
 
 ## 🎓 I am skilled in ...
-
-### Cyber Security :lock:
-
-<div>
-
- 
-</div>
-
 
 ### Programming :desktop_computer:
 
