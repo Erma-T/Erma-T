@@ -6,13 +6,13 @@
 ---
 
 <h3> Find me on </h3> 
-  <a href="https://www.linkedin.com/in/ermiyas-tilahun/">
+  <a href="https://www.linkedin.com/in/erma-tilahun/">
     <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:ermy143@gmail.com">
     <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/airma_creatives/">
+  <a href="https://www.instagram.com/erma.tilahun/">
     <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
   <a href="https://github.com/Erma-T">
